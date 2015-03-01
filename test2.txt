@@ -1,3 +1,5 @@
 some stuff with windows eol
 
 one more line
+adding more 
+
